@@ -3,7 +3,7 @@
 - 🕒 Account age: **9** years
 - 💻 Pushed **7258** commits
 - 🔍 Opened **4** issues
-- 🔃 Submitted **802** pull requests
+- 🔃 Submitted **803** pull requests
 - 👀 Reviewed **118** pull requests
 
 ## 🗂️ Repository Overview
