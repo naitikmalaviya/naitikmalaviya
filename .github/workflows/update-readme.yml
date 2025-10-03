@@ -13,9 +13,12 @@ jobs:
       with:
         fetch-depth: 0
     - name: Generate README.md
-      uses: naitikmalaviya/profile-readme-stats@v1.1
+      uses: Wandalen/wretry.action@v3.8.0
       with:
-        token: ${{ secrets.USER_TOKEN }}
+        action: naitikmalaviya/profile-readme-stats@v1.1
+        with: |
+          token: ${{ secrets.USER_TOKEN }}
+
     - name: Update README.md
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
