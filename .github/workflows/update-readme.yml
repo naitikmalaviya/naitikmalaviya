@@ -16,6 +16,8 @@ jobs:
       uses: Wandalen/wretry.action@v3.8.0
       with:
         action: naitikmalaviya/profile-readme-stats@v1.1
+        attempt_limit: 3
+        attempt_delay: 2000
         with: |
           token: ${{ secrets.USER_TOKEN }}
 
