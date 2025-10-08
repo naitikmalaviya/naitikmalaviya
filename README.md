@@ -1,10 +1,10 @@
 ## 📊 GitHub Stats
 
 - 🕒 Account age: **9** years
-- 💻 Pushed **8531** commits
+- 💻 Pushed **8573** commits
 - 🔍 Opened **5** issues
 - 🔃 Submitted **973** pull requests
-- 👀 Reviewed **125** pull requests
+- 👀 Reviewed **126** pull requests
 
 ## 🗂️ Repository Overview
 
@@ -12,7 +12,7 @@
 - 🤝 Contributed to **53** repositories
 
 ## 🔠 Top Languages
-![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B195.9%25)
+![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B196%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B11.9%25)
 ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B10.7%25)
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B10.6%25)
