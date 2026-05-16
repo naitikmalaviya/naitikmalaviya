@@ -5,7 +5,7 @@
 - 🕒 Account age: **10** years
 - 💻 Pushed **9833** commits
 - 🔍 Opened **8** issues
-- 🔃 Submitted **1249** pull requests
+- 🔃 Submitted **1250** pull requests
 - 👀 Reviewed **132** pull requests
 
 ## 🗂️ Repository Overview
