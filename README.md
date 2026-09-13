@@ -11,7 +11,7 @@
 ## 🗂️ Repository Overview
 
 - 📁 Own **5** repositories
-- 🤝 Contributed to **81** repositories
+- 🤝 Contributed to **80** repositories
 
 ## 🔠 Top Languages
 ![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%237355dd&message=C%23%EF%B8%B194.1%25)
