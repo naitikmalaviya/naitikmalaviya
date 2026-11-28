@@ -21,6 +21,9 @@ jobs:
         with: |
           token: ${{ secrets.USER_TOKEN }}
 
+    - name: Render stats card
+      run: node card/generate.mjs
+
     - name: Update README.md
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
